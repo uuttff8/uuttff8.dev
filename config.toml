@@ -46,5 +46,12 @@ sidebar = [
         {name="Github", url="https://github.com/uuttff8"},
         {name="VK", url="https://vk.com/uuttff8"},
     ]},
+<<<<<<< HEAD
     
 ]
+=======
+    {name = "Contributions!", urls=[
+        {name="Contribute!", url="https://github.com/uuttff8"}
+    ]}
+]
+>>>>>>> 5d99a28af62c532a4e57a32478b2605c1e5a6230
