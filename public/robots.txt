@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https:uuttff8.github.io/sitemap.xml
+Sitemap: https://uuttff8.github.io/sitemap.xml
