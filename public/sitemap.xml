@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/categories/real-content/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/post-about-swift/</loc>
+            
+                <lastmod>2019-09-04</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3Auuttff8.github.io/tags/placeholder-posts/</loc>
+            
+        </url>
+    
+</urlset>

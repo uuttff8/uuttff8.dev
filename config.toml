@@ -73,3 +73,6 @@ extra_syntaxes = []
 author = "uuttff8"
 
 even_title = "uuttff8"
+
+katex_enable = false
+katex_auto_render = false
