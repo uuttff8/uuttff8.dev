@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://uuttff8.github.io"
+base_url = "https://uuttff8.dev"
 
 title = "uuttff8"
 compile_sass = true
@@ -14,7 +14,7 @@ taxonomies = [
 ]
 
 [extra]
-# blog_logo="/imgs/common/profile.png" #will appear on top header
+# blog_logo="imgs/common/profile.png" #will appear on top header
 blog_title="uuttff8" #will appear on top header after logo
 
 ## i18n words
@@ -30,8 +30,8 @@ label_of = "of"
 label_minutes = "Minutes"
 
 
-og_image="" # Image that will appear on social media
-og_alt_image="" # Alt for og_image
+og_image="imgs/common/profile.png" # Image that will appear on social media
+og_alt_image="imgs/common/profile.png" # Alt for og_image
 og_site_name="uuttff8" # Site Name for Open Graphic
 keywords="swift, rust, blog, uuttff8" # Keywords for SEO
 
@@ -42,10 +42,9 @@ copyright_year="2019" # OPTIONAL
 ## Sidebar automatic links
 sidebar = [
     {name = "Social", urls=[
-        {name="Telegram", url="https://t.me/rustlangbr"},
-        {name="Github", url="https://github.com/rust-br"},
+        {name="Telegram", url="https://t.me/uuttff8"},
+        {name="Github", url="https://github.com/uuttff8"},
+        {name="VK", url="https://vk.com/uuttff8"},
     ]},
-    {name = "Contributions!", urls=[
-        {name="Contribute!", url="https://github.com/uuttff8"}
-    ]}
+    
 ]
