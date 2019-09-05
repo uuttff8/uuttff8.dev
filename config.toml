@@ -6,12 +6,12 @@ compile_sass = true
 highlight_code = true
 build_search_index = false
 
+theme = "dinkleberg"
+
 taxonomies = [
  {name = "categories"},
  {name = "tags"},
 ]
-
-theme = "dinkleberg"
 
 [extra]
 # blog_logo="/imgs/common/profile.png" #will appear on top header
